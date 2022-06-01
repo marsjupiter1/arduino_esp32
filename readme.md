@@ -1,3 +1,5 @@
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=28J8RUP2899JE)
+
 A collection of arduino files for the esp32 type board with builtin wifi and bluetooth
 
 thermistor.ino - a web server reporting back on a couple of attached thermistors.
